@@ -1,5 +1,5 @@
 # Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics
-The source code containing the implementation of Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics accepted at AAMAS 2025
+The source code containing the implementation of Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics accepted at AAMAS 2025. Full paper with Supplementary Material available [here](https://arxiv.org/abs/2501.12061).
 
 [PyMARL](https://github.com/oxwhirl/pymarl) is [WhiRL](http://whirl.cs.ox.ac.uk)'s framework for deep multi-agent reinforcement learning. We have used the same code-base structure and used the [**QPLEX**: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/pdf/2008.01062) MARL algorithm.
 
